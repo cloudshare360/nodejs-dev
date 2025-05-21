@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "name": "01-home",
+  "version": "1.0.0",
+  "description": "What is Node.js? Node.js is not a programming language like Python, Java or C/C++. Node.js is a runtime, similar to Java virtual machine, that converts JavaScript code into machine code. It is , widely used by thousands of developers around the world to develop I/O intensive web applications like video streaming sites, single-page applications, and other web applications.",
+  "main": "Hello-Web.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
