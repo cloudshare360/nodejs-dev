@@ -1,0 +1,18 @@
+{
+  "name": "08-upload-files",
+  "version": "1.0.0",
+  "description": "The Node.js is a good choice for handling the files-upload, Because of its non-blocking nature and ability to efficiently manage the concurrent requests.",
+  "main": "tp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "multer": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}

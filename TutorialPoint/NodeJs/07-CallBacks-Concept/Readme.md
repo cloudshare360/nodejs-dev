@@ -21,3 +21,23 @@ setTimeout(function () {
 console.log("Hello World");
 
 ```
+Callback as Arrow function
+You can also assign an arrow function as a callback argument. Arrow function in JavaScript is an anonymous function. It is also called as lambda function. The syntax of using arrow function as Node.js callback is as follows −
+
+```
+function function_name(argument, (callback_argument) => { 
+   // callback body 
+})
+```
+Callback as Arrow function
+You can also assign an arrow function as a callback argument. Arrow function in JavaScript is an anonymous function. It is also called as lambda function. The syntax of using arrow function as Node.js callback is as follows −
+
+```
+function function_name(argument, (callback_argument) => { 
+   // callback body 
+})
+```
+It was introduced in ES6 version of JavaScript. Let us replace the callback in the above example with an arrow function.
+
+
+
